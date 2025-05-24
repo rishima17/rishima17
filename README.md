@@ -5,7 +5,7 @@
  •email :- rishima1711@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:"I write better code with coffee in hand."
-- hobbies:- dancing as dance heals something it never broken
+- hobbies:- dancing as "dance is the hidden language of the soul".
 
 
 <!---
