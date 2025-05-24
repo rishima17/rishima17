@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @rishima17
-- 👀 I’m interested in software development 
+- 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning MERN stack
 - 📫 How to reach me ?
-- email :- rishima1711@gmail.com
-- LinkedIn:- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ •email :- rishima1711@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact:"I write better code with coffee in hand."
 - hobbies:- dancing as dance heals something it never broken
 
 
