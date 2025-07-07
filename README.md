@@ -12,9 +12,19 @@
 - 🔍 Exploring Web Dev, Backend APIs, and scalable applications
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: *I write better code with coffee in hand ☕*
-- 💃 **Dancer at heart** — “Dance is the hidden language of the soul.”
+- 💃  *"I debug by day, dance by night — both are about rhythm and flow."* – Rishima
+
 
 ---
+---
+
+<h3 align="center">✍️ Developer Philosophy</h3>
+
+<p align="center"><i>"Coffee + Ctrl + Z = Peace of mind."</i></p>
+<p align="center">— <b>Rishima’s Law ☕💻</b></p>
+
+---
+
 
 ## 🛠️ Tech Stack
 
