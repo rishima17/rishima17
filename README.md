@@ -42,7 +42,7 @@
 ## 📫 Let's Connect!
 
 - 💌 **Email:** rishima1711@gmail.com  
-- 💼 [**LinkedIn**] www.linkedin.com/in/rishima-rishima-a51355153
+- 💼 [**LinkedIn**] www.linkedin.com/in/rishima17
   
 
 ---
