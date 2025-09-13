@@ -48,7 +48,13 @@ Tech: React + Tailwind + Vercel
 
 🧳 **TripNest**  
 Tech: HTML, CSS, JS, Node.js, Express, MongoDB, Passport Auth  
-🔗 [wanderlust-p0jp.onrender.com](https://wanderlust-p0jp.onrender.com/)  
+🔗 [wanderlust-p0jp.onrender.com](https://wanderlust-p0jp.onrender.com/) 
+
+
+
+🍴**FoodNest**  
+Tech: React,CSS3,Node.js,Express,MongoDB,jwt auth,  
+🔗 [rishima-foodnest.vercel.app](https://rishima-foodnest.vercel.app/)
 
 ---
 
