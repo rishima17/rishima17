@@ -59,8 +59,8 @@ Tech: React,CSS3,Node.js,Express,MongoDB,jwt auth,
 ---
 
 ## 🏆 Achievements  
-- 🚀 **Google Hackathon 2025** — Learning Cohorts Participant  
-- 💻 **Coding Samurai Internship** — Web Dev Experience  
+- 🚀 **Smart Indian Hackathon(SIH)2025** — Participant  
+- 💻 **Backend Developer Intern at PearlThoughts** — 
 
 ---
 
