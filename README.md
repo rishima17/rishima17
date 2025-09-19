@@ -52,7 +52,12 @@
 
 🍴 **FoodNest**  
 **Tech:** React, CSS3, Node.js, Express, MongoDB, JWT Auth  
-🔗 [Visit FoodNest](https://rishima-foodnest.vercel.app/)  
+🔗 [Visit FoodNest](https://rishima-foodnest.vercel.app/) 
+
+
+🛒 **Pantry-Tracker**  
+**Tech:** React, Tailwind CSS , Node.js, Express, MongoDB, JWT Auth  
+🔗 [Visit Pantry-Tracker](https://household-pantry-expiry-app-1.onrender.com) 
 
 ---
 
