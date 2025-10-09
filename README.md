@@ -101,7 +101,6 @@
 </div>
 
 ---
-
 ## 📬 Connect With Me
 
 <p align="center">
@@ -114,6 +113,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://rishima-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/000000/domain.png" alt="Portfolio" />
+    <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/9333ea/external-world-wide-web-internet-globe-network-color-duo-tal-revivo.png" alt="Portfolio" />
   </a>
 </p>
+
