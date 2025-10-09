@@ -105,15 +105,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishima17" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:rishimamahajan17@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://rishima-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/48/9333ea/external-world-wide-web-internet-globe-network-color-duo-tal-revivo.png" alt="Portfolio" />
+    <img src="https://img.icons8.com/ios-filled/48/9333ea/domain.png" alt="Portfolio" />
   </a>
 </p>
+
 
