@@ -46,6 +46,17 @@
 **Tech:** React + Tailwind + Vercel  
 🔗 [Visit Portfolio](https://rishima-portfolio.vercel.app/)  
 
+
+ 🍀**FoodShare**  
+**Tech:** React, CSS3, Node.js, Express, MongoDB, JWT Auth ,Bcrypt  
+🔗 [Visit FoodShare](https://leftover-food-donation.vercel.app/) 
+
+
+🛒 **Pantry-Tracker**  
+**Tech:** React, Tailwind CSS , Node.js, Express, MongoDB, JWT Auth  
+🔗 [Visit Pantry-Tracker](https://household-pantry-expiry-app-1.onrender.com) 
+
+
 🧳 **TripNest**  
 **Tech:** HTML, CSS, JS, Node.js, Express, MongoDB, Passport Auth  
 🔗 [Visit TripNest](https://wanderlust-p0jp.onrender.com/)  
@@ -53,11 +64,6 @@
 🍴 **FoodNest**  
 **Tech:** React, CSS3, Node.js, Express, MongoDB, JWT Auth  
 🔗 [Visit FoodNest](https://rishima-foodnest.vercel.app/) 
-
-
-🛒 **Pantry-Tracker**  
-**Tech:** React, Tailwind CSS , Node.js, Express, MongoDB, JWT Auth  
-🔗 [Visit Pantry-Tracker](https://household-pantry-expiry-app-1.onrender.com) 
 
 ---
 
@@ -98,10 +104,16 @@
 
 ## 📬 Connect With Me
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishima17)  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishimamahajan17@gmail.com)  
-  <a href="https://rishima-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishima17" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-</div>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:rishimamahajan17@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://rishima-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/48/000000/domain.png" alt="Portfolio" />
+  </a>
+</p>
