@@ -1,6 +1,26 @@
+<div align="center">
+
 # 👋 Hi, I'm Rishima
 
-🚀 **Aspiring Software Engineer** | 💻 **MERN Stack Developer** | 🌟 **Open Source Enthusiast**
+### 🚀 Aspiring Software Engineer | 💻 MERN Stack Developer | 🌟 Open Source Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+
+---
+
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/rishima17" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:rishimamahajan17@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://rishima-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
+</div>
 
 ---
 
@@ -8,113 +28,156 @@
 
 <div align="center">
 
-### 🚀 Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white) 
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 📂 Featured Projects
 
-- Build and deploy **3 full-stack projects** 🌐  
-- Contribute to **Open Source** 💡  
-- Improve **Problem-Solving with DSA** 🧩  
+<table align="center">
+<tr>
+<td width="50%">
 
----
+### 🍀 FoodShare
+**Food Donation Platform**
 
-## 📂 Projects
+Built a full-stack platform connecting food donors with those in need, featuring secure authentication and real-time updates.
 
-🌐 **Portfolio Website**  
-**Tech:** React + Tailwind + Vercel  
-🔗 [Visit Portfolio](https://rishima-portfolio.vercel.app/)  
+**Tech Stack:** React, CSS3, Node.js, Express, MongoDB, JWT, Bcrypt
 
+🔗 [Live Demo](https://leftover-food-donation.vercel.app/)
 
- 🍀**FoodShare**  
-**Tech:** React, CSS3, Node.js, Express, MongoDB, JWT Auth ,Bcrypt  
-🔗 [Visit FoodShare](https://leftover-food-donation.vercel.app/) 
+</td>
+<td width="50%">
 
+### 🛒 Pantry Tracker
+**Household Inventory Manager**
 
-🛒 **Pantry-Tracker**  
-**Tech:** React, Tailwind CSS , Node.js, Express, MongoDB, JWT Auth  
-🔗 [Visit Pantry-Tracker](https://household-pantry-expiry-app-1.onrender.com) 
+Smart pantry management system with expiry tracking, helping reduce food waste through timely notifications.
 
+**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT
 
-🧳 **TripNest**  
-**Tech:** HTML, CSS, JS, Node.js, Express, MongoDB, Passport Auth  
-🔗 [Visit TripNest](https://wanderlust-p0jp.onrender.com/)  
+🔗 [Live Demo](https://household-pantry-expiry-app-1.onrender.com)
 
-🍴 **FoodNest**  
-**Tech:** React, CSS3, Node.js, Express, MongoDB, JWT Auth  
-🔗 [Visit FoodNest](https://rishima-foodnest.vercel.app/) 
+</td>
+</tr>
+<tr>
+<td width="50%">
 
----
+### 🍴 FoodNest
+**Food Discovery Platform**
 
-## 🏆 Achievements
+A modern food discovery and ordering platform with intuitive UI and seamless user experience.
 
-- 🚀 **Smart Indian Hackathon (SIH) 2025** — Participant  
-- 💻 **Backend Developer Intern at PearlThoughts**  
+**Tech Stack:** React, CSS3, Node.js, Express, MongoDB, JWT
 
----
+🔗 [Live Demo](https://rishima-foodnest.vercel.app/)
 
-## 📊 GitHub Overview
+</td>
+<td width="50%">
+
+### 🧳 TripNest
+**Travel Accommodation Platform**
+
+Full-featured travel booking platform with user authentication and interactive listings.
+
+**Tech Stack:** HTML, CSS, JS, Node.js, Express, MongoDB, Passport
+
+🔗 [Live Demo](https://wanderlust-p0jp.onrender.com/)
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishima17&show_icons=true&theme=radical&hide_border=true" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishima17&theme=radical&hide_border=true" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishima17&layout=compact&theme=radical&hide_border=true" />  
+
+### 🌐 [View My Portfolio](https://rishima-portfolio.vercel.app/)
+
 </div>
 
 ---
 
-## ⚡ Fun Section
+## 🏆 Certificates & Achievements
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+🎖️ **Participated in 3+ Hackathons** including Smart India Hackathon (SIH) 2025
+
+⭐ **Recognized as MVP at C# Corner**
+
+📜 **Full Stack Development Certificate** by GeeksforGeeks
+
+💼 **Backend Developer Intern** at PearlThoughts
+
 </div>
 
 ---
 
-## 🌸 Quote I Live By
+## 📊 GitHub Statistics
 
 <div align="center">
-  <i>"Coffee ☕ + Ctrl + Z = Peace of Mind."</i>  
-  <br />
-  — <b>Rishima’s Law 🌙💻</b>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishima17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9333ea&icon_color=9333ea&text_color=c9d1d9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishima17&theme=tokyonight&hide_border=true&background=1a1b27&ring=9333ea&fire=9333ea&currStreakLabel=9333ea" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishima17&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9333ea&text_color=c9d1d9" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rishima17&limit=5&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9333ea&text_color=c9d1d9" alt="Contribution Graph" />
 </div>
 
 ---
-## 📬 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishima17" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:rishimamahajan17@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://rishima-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/9333ea/domain.png" alt="Portfolio" />
-  </a>
-</p>
+## 💭 Random Dev Quote
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" />
+</div>
 
+---
+
+## 🌸 Philosophy
+
+<div align="center">
+  
+  ### *"Coffee ☕ + Ctrl + Z = Peace of Mind"*
+  
+  **— Rishima's Law 🌙💻**
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=rishima17&color=9333ea&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+### 💜 Thanks for visiting! Let's connect and build something amazing together! 🚀
+
+</div>
