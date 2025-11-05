@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Rishima
 
-### 🚀 Aspiring Software Engineer | 💻 MERN Stack Developer | 🌟 Open Source Enthusiast
+### 🚀 Aspiring Software Engineer | 💻 Full-Stack Developer | 🌟 Open Source Contributor
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
 
@@ -89,14 +89,14 @@ Smart pantry management system with expiry tracking, helping reduce food waste t
 <tr>
 <td width="50%">
 
-### 🍴 FoodNest
-**Food Discovery Platform**
+### 📝 BlogNest
+**Blogs Platform**
 
-A modern food discovery and ordering platform with intuitive UI and seamless user experience.
+A modern blogging platform with intuitive UI and seamless user experience.
 
-**Tech Stack:** React, CSS3, Node.js, Express, MongoDB, JWT
+**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT
 
-🔗 [Live Demo](https://rishima-foodnest.vercel.app/)
+🔗 [Live Demo](https://blognest-app.vercel.app/)
 
 </td>
 <td width="50%">
@@ -130,9 +130,11 @@ Full-featured travel booking platform with user authentication and interactive l
 
 ⭐ **Recognized as MVP at C# Corner**
 
+⭐ **Open Source Contributor at SOCIAL WINTER OF CODE(SWOC)**
+
 📜 **Full Stack Development Certificate** by GeeksforGeeks
 
-💼 **Backend Developer Intern** at PearlThoughts
+
 
 </div>
 
