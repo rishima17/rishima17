@@ -4,7 +4,7 @@
 
 ### 🚀 Aspiring Software Engineer | 💻 Full-Stack Developer | 🌟 Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=### 🚀 Aspiring Software Engineer | 💻 Full-Stack Developer | 🌟 Open Source Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines="🚀 Aspiring Software Engineer | 💻 Full-Stack Developer | 🌟 Open Source Contributor" alt="Typing SVG" />
 
 ---
 
