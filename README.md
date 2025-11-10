@@ -126,15 +126,10 @@ Full-featured travel booking platform with user authentication and interactive l
 
 <div align="center">
 
-🎖️ **Participated in 3+ Hackathons** including Smart India Hackathon (SIH) 2025
-
-⭐ **Recognized as MVP at C# Corner**
-
-⭐ **Open Source Contributor at SOCIAL WINTER OF CODE(SWOC)**
-
-📜 **Full Stack Development Certificate** by GeeksforGeeks
-
-
+🎖️ **Participated in 3+ Hackathons** including Smart India Hackathon (SIH) 2025  
+⭐ **Recognized as MVP at C# Corner**  
+⭐ **Open Source Contributor at SOCIAL WINTER OF CODE (SWOC)**  
+📜 **Full Stack Development Certificate** by GeeksforGeeks  
 
 </div>
 
@@ -149,7 +144,15 @@ Full-featured travel booking platform with user authentication and interactive l
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishima17&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9333ea&text_color=c9d1d9" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rishima17&limit=5&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9333ea&text_color=c9d1d9" alt="Contribution Graph" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rishima17&limit=5&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9333ea&text_color=c9d1d9" alt="Contributor Stats" />
+</div>
+
+---
+
+## 🌱 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishima17&bg_color=1a1b27&color=9333ea&line=9333ea&point=ffffff&area=true&hide_border=true" width="95%" alt="Rishima's Contribution Graph" />
 </div>
 
 ---
