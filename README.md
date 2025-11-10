@@ -4,14 +4,14 @@
 
 ### 🚀 Aspiring Software Engineer | 💻 Full-Stack Developer | 🌟 Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines="🚀 Aspiring Software Engineer | 💻 Full-Stack Developer | 🌟 Open Source Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
 
 ---
 
 ### 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/rishima17" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=9333EA" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:rishimamahajan17@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -174,4 +174,4 @@ Full-featured travel booking platform with user authentication and interactive l
   
 ### 💜 Thanks for visiting! Let's connect and build something amazing together! 🚀
 
-</div> can you make whole theme as green 
+</div> 
