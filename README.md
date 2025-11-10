@@ -135,25 +135,26 @@ Full-featured travel booking platform with user authentication and interactive l
 
 ---
 
-## 📊 GitHub Statistics
 
+### 📊 GitHub Stats (Green Theme)
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishima17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9333ea&icon_color=9333ea&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishima17&theme=tokyonight&hide_border=true&background=1a1b27&ring=9333ea&fire=9333ea&currStreakLabel=9333ea" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishima17&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9333ea&text_color=c9d1d9" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rishima17&limit=5&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=9333ea&text_color=c9d1d9" alt="Contributor Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishima17&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishima17&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishima17&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=15" height="150px" />
 </div>
 
 ---
 
-## 🌱 Contribution Graph
-
+### 🌿 Contribution Graph (Green)
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishima17&bg_color=1a1b27&color=9333ea&line=9333ea&point=ffffff&area=true&hide_border=true" width="95%" alt="Rishima's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishima17&bg_color=0d1117&color=00ff6a&line=00ff6a&point=ffffff&area=true&hide_border=true" width="95%">
 </div>
+
+
 
 ---
 
