@@ -57,6 +57,30 @@
 
 ---
 
+
+
+### 📊 GitHub Stats (Green Theme)
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=rishima17&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishima17&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishima17&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=15" height="150px" />
+</div>
+
+---
+
+### 🌿 Contribution Graph (Green)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishima17&bg_color=0d1117&color=00ff6a&line=00ff6a&point=ffffff&area=true&hide_border=true" width="95%">
+</div>
+
+
+
+---
+
 ## 📂 Featured Projects
 
 <table align="center">
@@ -132,29 +156,6 @@ Full-featured travel booking platform with user authentication and interactive l
 📜 **Full Stack Development Certificate** by GeeksforGeeks  
 
 </div>
-
----
-
-
-### 📊 GitHub Stats (Green Theme)
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=rishima17&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishima17&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishima17&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=15" height="150px" />
-</div>
-
----
-
-### 🌿 Contribution Graph (Green)
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishima17&bg_color=0d1117&color=00ff6a&line=00ff6a&point=ffffff&area=true&hide_border=true" width="95%">
-</div>
-
-
 
 ---
 
