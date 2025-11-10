@@ -7,23 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
 
 ---
-
-### 🌐 Connect With Me
-
-<a href="https://www.linkedin.com/in/rishima17" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:rishimamahajan17@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://rishima-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -166,6 +149,21 @@ Full-featured travel booking platform with user authentication and interactive l
   
   <img src="https://komarev.com/ghpvc/?username=rishima17&color=9333ea&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
   
+</div>
+
+---
+### 🌐 Connect With Me
+
+<a href="https://www.linkedin.com/in/rishima17" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:rishimamahajan17@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://rishima-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
+
 </div>
 
 ---
