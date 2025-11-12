@@ -39,6 +39,9 @@
 </div>
 
 ---
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishima17)
+
 ### 📊 GitHub Stats 
 <div align="center">
 
