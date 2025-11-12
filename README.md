@@ -42,8 +42,8 @@
 
 
 ## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-readme-trophies.vercel.app/?username=rishima17&theme=onedark&no-frame=true&row=1)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishima17&theme=onedark&no-frame=true&row=1&margin-w=15)
 
 
 
