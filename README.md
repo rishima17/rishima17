@@ -39,16 +39,13 @@
 </div>
 
 ---
-## 🏆 GitHub Trophies
 
-  <!-- Trophies -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=rishima17&theme=onedark&no-frame=true&row=1&margin-w=15" 
-    height="140"
-    alt="GitHub Trophies"
-  />
-  <br><br>
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rishima17)
+
+ ## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=rishima17&theme=onedark&no-frame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+
+
 
 ### 📊 GitHub Stats 
 <div align="center">
