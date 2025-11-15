@@ -86,8 +86,8 @@ Built a full-stack platform connecting food donors with those in need, featuring
 </td>
 <td width="50%">
 
-### 🛒 Pantry Tracker
-**Household Inventory Manager**
+### 🛒 FreshKeep
+**Household Digital Pantry**
 
 Smart pantry management system with expiry tracking, helping reduce food waste through timely notifications.
 
