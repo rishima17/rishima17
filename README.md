@@ -137,7 +137,7 @@ Full-featured travel booking platform with user authentication and interactive l
 
 <div align="center">
 
-🎖️ **Participated in 3+ Hackathons** including Smart India Hackathon (SIH) 2025  
+🎖️ **Participated in 3+ Hackathons** including HackAura 2025  
 ⭐ **Recognized as MVP at C# Corner**  
 ⭐ **Open Source Contributor at SOCIAL WINTER OF CODE (SWOC)**  
 📜 **Full Stack Development Certificate** by GeeksforGeeks  
