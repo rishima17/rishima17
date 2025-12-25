@@ -78,6 +78,20 @@ Built a full-stack platform connecting food donors with those in need, featuring
 </td>
 <td width="50%">
 
+### 🧑‍🏫 LecturePulse
+**A real-time student feedback application**
+
+LecturePulse is a real-time feedback app that helps teachers instantly assess student understanding while allowing students to share anonymous feedback after lectures.
+
+**Tech Stack:** React, Tailwind CSS, Framer Motion, Recharts
+
+🔗 [Live Demo](https://lecturepulse.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🛒 FreshKeep
 **Household Digital Pantry**
 
@@ -88,8 +102,6 @@ Smart pantry management system with expiry tracking, helping reduce food waste t
 🔗 [Live Demo](https://household-pantry-expiry-app-1.onrender.com)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📝 BlogNest
@@ -97,21 +109,11 @@ Smart pantry management system with expiry tracking, helping reduce food waste t
 
 A modern blogging platform with intuitive UI and seamless user experience.
 
+
 **Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT
 
+
 🔗 [Live Demo](https://blognest-app.vercel.app/)
-
-</td>
-<td width="50%">
-
-### 🧳 TripNest
-**Travel Accommodation Platform**
-
-Full-featured travel booking platform with user authentication and interactive listings.
-
-**Tech Stack:** HTML, CSS, JS, Node.js, Express, MongoDB, Passport
-
-🔗 [Live Demo](https://wanderlust-p0jp.onrender.com/)
 
 </td>
 </tr>
