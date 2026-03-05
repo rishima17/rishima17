@@ -95,7 +95,7 @@ LecturePulse is a real-time feedback app that helps teachers instantly assess st
 ### 🛒 FreshKeep
 **Household Digital Pantry**
 
-Smart Pantry management system with expiry tracking, helping reduce food waste through timely notifications.
+Smart Pantry management System with expiry tracking, helping reduce food waste through timely notifications.
 
 **Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT
 
