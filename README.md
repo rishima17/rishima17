@@ -60,67 +60,7 @@
 
 ---
 
-## 📂 Featured Projects
 
-<table align="center">
-<tr>
-<td width="50%">
-
-### Automator.UI
-**AI-UI-FRONTEND**
-
-Built an AI-powered drag-and-drop platform that converts UI designs into production-ready React code
-using the Gemini API
-
-**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, Firebase , Gemini API 
-
-🔗 [Live Demo](https://ui-designer-tau.vercel.app/)
-
-</td>
-<td width="50%">
-  
-###  FoodShare
-**Food Donation Platform**
-
-Built a full-stack platform connecting food donors with those in need, featuring secure authentication and real-time updates.
-
-**Tech Stack:** React, CSS3, Node.js, Express, MongoDB, JWT, Bcrypt
-
-🔗 [Live Demo](https://leftover-food-donation.vercel.app/)
-
-</td>
-<td width="50%">
-
-### 🧑‍🏫 LecturePulse
-**A real-time student feedback application**
-
-LecturePulse is a real-time feedback app that helps teachers instantly assess student understanding while allowing students to share anonymous feedback after lectures.
-
-**Tech Stack:** React, Tailwind CSS, Framer Motion, Recharts
-
-🔗 [Live Demo](https://lecturepulse.vercel.app/)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-
-
-### 📝 BlogNest
-**Blogs Platform**
-
-A modern blogging platform with intuitive UI and seamless user experience.
-
-
-**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT
-
-
-🔗 [Live Demo](https://blognest-app.vercel.app/)
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
@@ -129,7 +69,67 @@ A modern blogging platform with intuitive UI and seamless user experience.
 </div>
 
 ---
+## 📂 Featured Projects
 
+<table align="center">
+
+<tr>
+<td width="50%">
+
+### Automator.UI  
+**AI-UI-FRONTEND**
+
+Built an AI-powered drag-and-drop platform that converts UI designs into production-ready React code using the Gemini API.
+
+**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, Firebase, Gemini API  
+
+🔗 [Live Demo](https://ui-designer-tau.vercel.app/)
+
+</td>
+
+<td width="50%">
+
+### 🍱 FoodShare  
+**Food Donation Platform**
+
+Built a full-stack platform connecting food donors with those in need, featuring secure authentication and real-time updates.
+
+**Tech Stack:** React, CSS3, Node.js, Express, MongoDB, JWT, Bcrypt  
+
+🔗 [Live Demo](https://leftover-food-donation.vercel.app/)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧑‍🏫 LecturePulse  
+**Real-time Student Feedback Application**
+
+LecturePulse is a real-time feedback app that helps teachers instantly assess student understanding while allowing students to share anonymous feedback after lectures.
+
+**Tech Stack:** React, Tailwind CSS, Framer Motion, Recharts  
+
+🔗 [Live Demo](https://lecturepulse.vercel.app/)
+
+</td>
+
+<td width="50%">
+
+### 📝 BlogNest  
+**Blogs Platform**
+
+A modern blogging platform with an intuitive UI and seamless user experience.
+
+**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT  
+
+🔗 [Live Demo](https://blognest-app.vercel.app/)
+
+</td>
+</tr>
+
+</table>
 ## 🏆 Certificates & Achievements
 
 <div align="center">
