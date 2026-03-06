@@ -66,7 +66,20 @@
 <tr>
 <td width="50%">
 
-### 🍀 FoodShare
+### Automator.UI
+**AI-UI-FRONTEND**
+
+Built an AI-powered drag-and-drop platform that converts UI designs into production-ready React code
+using the Gemini API
+
+**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, Firebase , Gemini API 
+
+🔗 [Live Demo](https://ui-designer-tau.vercel.app/)
+
+</td>
+<td width="50%">
+  
+###  FoodShare
 **Food Donation Platform**
 
 Built a full-stack platform connecting food donors with those in need, featuring secure authentication and real-time updates.
@@ -92,17 +105,7 @@ LecturePulse is a real-time feedback app that helps teachers instantly assess st
 <tr>
 <td width="50%">
 
-### 🛒 FreshKeep
-**Household Digital Pantry**
 
-Smart Pantry management System with expiry tracking, helping reduce food waste through timely notifications.
-
-**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT
-
-🔗 [Live Demo](https://household-pantry-expiry-app-1.onrender.com)
-
-</td>
-<td width="50%">
 
 ### 📝 BlogNest
 **Blogs Platform**
