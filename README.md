@@ -4,72 +4,138 @@
 
 ### 🚀 Aspiring Software Engineer | 💻 Full-Stack Developer | 🌟 Open Source Contributor
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
-
----
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" />
 
 </div>
 
 ---
 
-### 📊 GitHub Stats 
+# 🛠️ Tech Stack
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rishima17&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishima17&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
-  
-  <br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,react,next,nodejs,express,nest,mongodb,html,css,tailwind,git,mysql,postgresql,github,vscode,postman,vercel,render,terminal,&perline=8" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishima17&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=15" height="150px" />
 </div>
 
 ---
 
-### 🌿 Contribution 
+# 💻 Programming Languages
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishima17&bg_color=0d1117&color=00ff6a&line=00ff6a&point=ffffff&area=true&hide_border=true" width="95%">
+
+| Language | Level |
+|--------|--------|
+| Java ☕ | ██████████ 90% |
+| Python 🐍 | █████████ 85% |
+| JavaScript ⚡ | █████████ 85% |
+| C++ 🚀 | ████████ 80% |
+
 </div>
 
 ---
 
-
+# 🎨 Frontend Development
 
 <div align="center">
 
-### 🌐 [View My Portfolio](https://rishima-portfolio.vercel.app/)
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+
+</div>
+
+### ✨ Technologies I Use
+
+- React.js  
+- HTML5  
+- CSS3  
+- TailwindCSS  
+
+---
+
+# ⚙️ Backend Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+</div>
+
+### ⚡ Backend Stack
+
+- Node.js  
+- Express.js  
+- MongoDB  
+- JWT Authentication  
+
+---
+
+# 🔧 Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 
 </div>
 
 ---
-## 📂 Featured Projects
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishima17&show_icons=true&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishima17&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishima17&layout=compact&theme=chartreuse-dark&hide_border=true&border_radius=15" height="150px" />
+
+</div>
+
+---
+
+# 🌿 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishima17&bg_color=0d1117&color=00ff6a&line=00ff6a&point=ffffff&area=true&hide_border=true" width="95%">
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rishima17/rishima17/output/github-contribution-grid-snake.svg">
+
+</div>
+
+---
+
+# ✨ Coding Life
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+</div>
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+### 🔗 [View My Portfolio](https://rishima-portfolio.vercel.app/)
+
+</div>
+
+---
+
+# 📂 Featured Projects
 
 <table align="center">
 
@@ -77,13 +143,15 @@
 <td width="50%">
 
 ### Automator.UI  
-**AI-UI-FRONTEND**
+**AI-UI-Frontend Builder**
 
-Built an AI-powered drag-and-drop platform that converts UI designs into production-ready React code using the Gemini API.
+AI-powered drag-and-drop platform that converts UI designs into production-ready React code using the Gemini API.
 
-**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, Firebase, Gemini API  
+**Tech Stack**
 
-🔗 [Live Demo](https://ui-designer-tau.vercel.app/)
+React • Tailwind • Node.js • Express • MongoDB • Firebase • Gemini API  
+
+🔗 https://ui-designer-tau.vercel.app/
 
 </td>
 
@@ -92,11 +160,13 @@ Built an AI-powered drag-and-drop platform that converts UI designs into product
 ### 🍱 FoodShare  
 **Food Donation Platform**
 
-Built a full-stack platform connecting food donors with those in need, featuring secure authentication and real-time updates.
+A full-stack platform connecting food donors with people in need.
 
-**Tech Stack:** React, CSS3, Node.js, Express, MongoDB, JWT, Bcrypt  
+**Tech Stack**
 
-🔗 [Live Demo](https://leftover-food-donation.vercel.app/)
+React • CSS3 • Node.js • Express • MongoDB • JWT • Bcrypt  
+
+🔗 https://leftover-food-donation.vercel.app/
 
 </td>
 </tr>
@@ -105,69 +175,90 @@ Built a full-stack platform connecting food donors with those in need, featuring
 <td width="50%">
 
 ### 🧑‍🏫 LecturePulse  
-**Real-time Student Feedback Application**
+**Real-time Student Feedback App**
 
-LecturePulse is a real-time feedback app that helps teachers instantly assess student understanding while allowing students to share anonymous feedback after lectures.
+Helps teachers instantly assess student understanding with anonymous feedback.
 
-**Tech Stack:** React, Tailwind CSS, Framer Motion, Recharts  
+**Tech Stack**
 
-🔗 [Live Demo](https://lecturepulse.vercel.app/)
+React • Tailwind • Framer Motion • Recharts  
+
+🔗 https://lecturepulse.vercel.app/
 
 </td>
 
 <td width="50%">
 
 ### 📝 BlogNest  
-**Blogs Platform**
+**Modern Blogging Platform**
 
-A modern blogging platform with an intuitive UI and seamless user experience.
+A clean blogging platform with smooth UI and authentication.
 
-**Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB, JWT  
+**Tech Stack**
 
-🔗 [Live Demo](https://blognest-app.vercel.app/)
+React • Tailwind • Node.js • Express • MongoDB • JWT  
+
+🔗 https://blognest-app.vercel.app/
 
 </td>
 </tr>
 
 </table>
+
+---
+
 ## 🏆 Certificates & Achievements
 
 <div align="center">
 
-🎖️ **Participated in 5+ Hackathons** including HackAura 2025  
-⭐ **Recognized as MVP at C# Corner**  
-⭐ **Open Source Contributor at SOCIAL WINTER OF CODE (SWOC)**  
-📜 **Full Stack Development Certificate** by GeeksforGeeks  
+🎖️ **Participated in 5+ Hackathons** including **HackAura 2025**
+
+🥈 **Semi-Finalist at RIFT'26 Hackathon**
+
+⭐ **MVP at C# Corner**
+
+⭐ **Open Source Contributor — Social Winter of Code (SWOC)**
+
+👨‍🏫 **Mentor at Apertre 3.0 Open Source Program**
+
+📜 **Full Stack Development Certificate — GeeksforGeeks**
+
+</div>
 
 </div>
 
 ---
 
-## 🌸 Philosophy
+# 🌸 Philosophy
 
 <div align="center">
-  
-  ### *"Coffee ☕ + Ctrl + Z = Peace of Mind"*
-  
-  **— Rishima's Law 🌙💻**
-  
-  <br>
-  
-  <img src="https://komarev.com/ghpvc/?username=rishima17&color=9333ea&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  
+
+### *"Coffee ☕ + Ctrl + Z = Peace of Mind"*
+
+**— Rishima's Law 🌙💻**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=rishima17&color=9333ea&style=for-the-badge&label=Profile+Views" />
+
 </div>
 
 ---
-### 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/rishima17" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rishima17">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:rishimamahajan17@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+
+<a href="mailto:rishim1711@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://rishima-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+
+<a href="https://rishima-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 </div>
@@ -175,7 +266,7 @@ A modern blogging platform with an intuitive UI and seamless user experience.
 ---
 
 <div align="center">
-  
-### 💜 Thanks for visiting! Let's connect and build something amazing together! 🚀
 
-</div> 
+### 💜 Thanks for visiting! Let's build something amazing together 🚀
+
+</div>
