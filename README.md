@@ -1,12 +1,28 @@
-<div align="center">
+<table>
+<tr>
+<td width="55%">
 
 # 👋 Hi, I'm Rishima
 
-### 🚀 Aspiring Software Engineer | 💻 Full-Stack Developer | 🌟 Open Source Contributor
+### 🚀 Aspiring Software Engineer  
+### 💻 Full-Stack Developer  
+### 🌟 Open Source Contributor  
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&width=420&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Open+Source+Contributor" />
 
-</div>
+💡 Passionate about building scalable web applications and solving real-world problems through code.
+
+🌱 Currently improving **DSA, System Design, and Full Stack Development**
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -39,7 +55,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap" />
 
 </div>
 
