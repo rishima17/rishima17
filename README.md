@@ -26,88 +26,24 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="40%" align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,next,nodejs,express,nest,mongodb,html,css,tailwind,git,mysql,postgresql,github,vscode,postman,vercel,render,terminal,&perline=8" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
 
-</div>
+</td>
 
----
+<td width="60%" align="center">
 
-## 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,tailwind,react,next,nodejs,express,nest,mongodb,prisma,git,mysql,postgresql,cpp,firebase,github,vscode,postman,vercel,render,terminal&perline=6" />
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=java,python,js&perline=6" />
-
-</div>
-
-- ☕ **Java**
-- 🐍 **Python**
-- ⚡ **JavaScript**
-
----
-
-## 🎨 Frontend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind&perline=6" />
-
-</div>
-
-- ⚛️ React.js  
-- ▲ Next.js  
-- 🌐 HTML5  
-- 🎨 CSS3  
-- 💨 Tailwind CSS  
-
----
-
-## ⚙️ Backend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nest&perline=6" />
-
-</div>
-
-- 🟢 Node.js  
-- 🚂 Express.js  
-- 🛡 NestJS  
-
----
-
-## 🗄 Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=6" />
-
-</div>
-
-- 🍃 MongoDB  
-- 🐬 MySQL  
-- 🐘 PostgreSQL  
-
----
-
-## 🛠 Tools & Platforms
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,terminal&perline=7" />
-
-</div>
-
-- 🔧 Git & GitHub  
-- 💻 VS Code  
-- 📬 Postman  
-- 🚀 Vercel  
-- ☁️ Render  
-- 🖥 Terminal  
 
 ---
 
@@ -136,25 +72,33 @@
 </div>
 
 ---
-
-
-# ✨ Coding Life
+## 🌐 Portfolio
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=500&lines=Explore+My+Portfolio;Projects+%7C+Skills+%7C+Experience" />
+
+<br><br>
+
+
+<a href="https://rishima-portfolio.vercel.app/" target="_blank">
+
+<img src="https://img.shields.io/badge/🌟%20Visit%20My%20Portfolio-7F3FBF?style=for-the-badge&logo=react&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Built%20With-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Deployed%20On-Vercel-black?style=for-the-badge&logo=vercel"/>
 
 </div>
 
 ---
 
-# 🌐 Portfolio
 
-<div align="center">
 
-### 🔗 [View My Portfolio](https://rishima-portfolio.vercel.app/)
 
-</div>
 
 ---
 
@@ -238,9 +182,7 @@ React • Tailwind • Node.js • Express • MongoDB • JWT
 
 🥈 **Semi-Finalist at RIFT'26 Hackathon**
 
-⭐ **MVP at C# Corner**
-
-⭐ **Open Source Contributor — Social Winter of Code (SWOC)**
+🎖️ **Rank 3** at **WINTER OF CODE SOCIAL'25**
 
 👨‍🏫 **Mentor at Apertre 3.0 Open Source Program**
 
