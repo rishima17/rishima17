@@ -121,15 +121,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rishima17/rishima17/output/github-contribution-grid-snake.svg">
-
-</div>
-
----
 
 # ✨ Coding Life
 
