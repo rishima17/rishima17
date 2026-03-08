@@ -36,62 +36,78 @@
 
 ---
 
-# 💻 Programming Languages
+## 💻 Programming Languages
 
 <div align="center">
 
-| Language | Level |
-|--------|--------|
-| Java ☕ | ██████████ 90% |
-| Python 🐍 | █████████ 85% |
-| JavaScript ⚡ | █████████ 85% |
-| C++ 🚀 | ████████ 80% |
+<img src="https://skillicons.dev/icons?i=java,python,js&perline=6" />
 
 </div>
+
+- ☕ **Java**
+- 🐍 **Python**
+- ⚡ **JavaScript**
 
 ---
 
-# 🎨 Frontend Development
+## 🎨 Frontend Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind&perline=6" />
 
 </div>
 
-### ✨ Technologies I Use
-
-- React.js  
-- HTML5  
-- CSS3  
-- TailwindCSS  
+- ⚛️ React.js  
+- ▲ Next.js  
+- 🌐 HTML5  
+- 🎨 CSS3  
+- 💨 Tailwind CSS  
 
 ---
 
-# ⚙️ Backend Development
+## ⚙️ Backend Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nest&perline=6" />
 
 </div>
 
-### ⚡ Backend Stack
-
-- Node.js  
-- Express.js  
-- MongoDB  
-- JWT Authentication  
+- 🟢 Node.js  
+- 🚂 Express.js  
+- 🛡 NestJS  
 
 ---
 
-# 🔧 Tools & Technologies
+## 🗄 Databases
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&perline=6" />
 
 </div>
+
+- 🍃 MongoDB  
+- 🐬 MySQL  
+- 🐘 PostgreSQL  
+
+---
+
+## 🛠 Tools & Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,terminal&perline=7" />
+
+</div>
+
+- 🔧 Git & GitHub  
+- 💻 VS Code  
+- 📬 Postman  
+- 🚀 Vercel  
+- ☁️ Render  
+- 🖥 Terminal  
 
 ---
 
