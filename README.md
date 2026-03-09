@@ -72,27 +72,30 @@
 </div>
 
 ---
-## 🌐 Portfolio
+
+
+## 🌐 My Portfolio  
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=7F3FBF&center=true&vCenter=true&width=500&lines=Explore+My+Portfolio;Projects+%7C+Skills+%7C+Experience" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=9333EA&center=true&vCenter=true&width=520&lines=Welcome+to+My+Portfolio;Explore+My+Projects+and+Skills;Building+Modern+Web+Experiences" />
+
+<br>
+
+🚀 Discover my work, projects, and technical skills.
 
 <br><br>
 
-
 <a href="https://rishima-portfolio.vercel.app/" target="_blank">
-
-<img src="https://img.shields.io/badge/🌟%20Visit%20My%20Portfolio-7F3FBF?style=for-the-badge&logo=react&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Built%20With-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Deployed%20On-Vercel-black?style=for-the-badge&logo=vercel"/>
+✨ **Projects • Skills • Experience • Achievements**
 
 </div>
+
 
 ---
 
