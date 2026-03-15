@@ -62,6 +62,8 @@
 </div>
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rishima17&theme=onedark)
 
 # 🌿 Contribution Activity
 
