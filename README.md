@@ -142,6 +142,22 @@ const rishima = {
 </td>
 <td width="50%" valign="top">
 
+### 🌌 [DebugAI](https://debug-ai-iota.vercel.app/)
+**The Neural Bug Deconstructor**
+ 
+> AI-driven troubleshooting platform that transforms chaotic raw error logs into structured, actionable reproduction steps and fixes using the power of Google Gemini. 
+
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini_API-8e75b2?style=flat-square&logo=google&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🍱 [FoodShare](https://leftover-food-donation.vercel.app/)
 **Food Donation Platform**
 
@@ -151,22 +167,6 @@ const rishima = {
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧑‍🏫 [LecturePulse](https://lecturepulse.vercel.app/)
-**Real-time Student Feedback App**
-
-> Helps teachers instantly assess student understanding with anonymous live feedback and visual analytics.
-
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/-Framer_Motion-black?style=flat-square&logo=framer&logoColor=white)
-![Recharts](https://img.shields.io/badge/-Recharts-22b5bf?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
