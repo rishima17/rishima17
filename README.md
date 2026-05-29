@@ -100,6 +100,15 @@ const rishima = {
 
 ---
 
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishima17&bg_color=0d1117&color=9333ea&line=a855f7&point=e6edf3&area=true&area_color=9333ea&hide_border=true&radius=12" width="97%"/>
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
