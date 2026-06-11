@@ -107,22 +107,10 @@ const rishima = {
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rishima17&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7"/>
-
-</div>
 
 ---
 
- 
- 
-
----
 
 ## 📂 Featured Projects
 
@@ -198,26 +186,14 @@ const rishima = {
 <div align="center">
 
 | 🎖️ | Achievement |
-|:---:|:---|
+|:---:|:---| 
+| 📜 | **Oracle Certified —** — OCI 2025 AI Foundations  (Aug 2025)|
+| 📜 | **Full Stack Development Certificate** — GeeksforGeeks |
 | 🥈 | **Semi-Finalist** — RIFT'26 Hackathon |
 | 🥉 | **Rank 3** — Winter of Code Social '25 |
-| 🎖️ | **5+ Hackathons** participated — including HackAura 2025 |
-| 👨‍🏫 | **Mentor** — Apertre 3.0 Open Source Program |
-| 📜 | **Full Stack Development Certificate** — GeeksforGeeks |
+| 🎖️ | **15+ Hackathons** participated — including HackAura 2025 |
+| 👨‍🏫 | **Mentor** — Apertre 3.0 , SSoC'26 |
 
-</div>
-
----
-
-## 🌐 Portfolio
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Explore+my+projects+%26+skills+%F0%9F%9A%80;Building+modern+web+experiences+%E2%9C%A8;Check+out+what+I've+been+building..." />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://rishima-portfolio.vercel.app/)
 
 </div>
 
