@@ -187,7 +187,7 @@ const rishima = {
 
 | 🎖️ | Achievement |
 |:---:|:---| 
-| 📜 | **Oracle Certified —** — OCI 2025 AI Foundations  (Aug 2025)|
+| 📜 | **Oracle Certified —**  OCI 2025 AI Foundations  (Aug 2025)|
 | 📜 | **Full Stack Development Certificate** — GeeksforGeeks |
 | 🥈 | **Semi-Finalist** — RIFT'26 Hackathon |
 | 🥉 | **Rank 3** — Winter of Code Social '25 |
