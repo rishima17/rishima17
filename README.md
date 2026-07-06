@@ -152,6 +152,29 @@ const rishima = {
 </div>
 
 ---
+## 🎖️ Open Source Badges
+
+<div align="center">
+
+[![Holopin Badges](https://holopin.me/rishima17)](https://holopin.io/@rishima17)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="700"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
 
 ## 🌐 Connect With Me
 
