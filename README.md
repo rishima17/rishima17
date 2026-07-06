@@ -149,8 +149,6 @@ const rishima = {
 
 <img src="https://raw.githubusercontent.com/rishima17/rishima17/output/github-contribution-grid-snake-dark.svg" width="97%"/>
 
-<sub>⚙️ Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — set it up in your repo to activate this section.</sub>
-
 </div>
 
 ---
