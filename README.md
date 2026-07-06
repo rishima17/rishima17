@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9333ea&height=120&section=header&text=&fontSize=0&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9333ea&height=150&section=header&text=Hi%20There,%20I'm%20Rishima%20%F0%9F%91%8B&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 </div>
 
@@ -10,20 +10,16 @@
 <tr>
 <td width="58%" valign="middle">
 
-<div>
-
 ```typescript
 const rishima = {
   name:     "Rishima",
   role:     "Full-Stack Developer",
-  focus:    ["MERN Stack", "System Design", "DSA"],
+  exploring: ["Gen AI", "Agentic AI", "LangChain", "RAG", "MERN Stack"],
   status:   "🟢 Open to opportunities",
   passion:  "Building things that matter",
   law:      "Coffee ☕ + Ctrl+Z = Peace 🌙"
 };
 ```
-
-</div>
 
 <br/>
 
@@ -33,6 +29,33 @@ const rishima = {
 <td width="42%" align="center">
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" style="border-radius: 16px;"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🔭 Currently building **AI-powered developer tools** with the MERN stack
+- 🌱 Diving into **Gen AI, Agentic AI, LangChain & RAG** pipelines
+- 🤝 Open to **collaborating** on open-source & hackathon projects
+- 💬 Ask me about **React, Node.js, MongoDB**, or AI-integrated web apps
+- ⚡ Fun fact: my code review process runs on ☕ + `Ctrl+Z`
+
+</td>
+<td width="50%" valign="top">
+
+- 🏆 Participated in **10+ hackathons** and counting
+- 👨‍🏫 Mentored **200+ developers** across Apertre 3.0 & SSoC'26
+- 📜 Oracle Certified — **AI Foundations** & **Agentic AI Foundations**
+- 🥉 Rank 3 at **Winter of Code Social '25**
+- 🎯 Semi-Finalist at **RIFT'26 Hackathon**
 
 </td>
 </tr>
@@ -100,6 +123,17 @@ const rishima = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rishima17&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="97%"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -107,104 +141,15 @@ const rishima = {
 
 </div>
 
-
-
 ---
 
-
-## 📂 Featured Projects
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://raw.githubusercontent.com/rishima17/rishima17/output/github-contribution-grid-snake-dark.svg" width="97%"/>
 
-### 🤖 [Automator.UI](https://ui-designer-tau.vercel.app/)
-**AI-UI-Frontend Builder**
-
-> AI-powered drag-and-drop platform that converts UI designs into production-ready React code using the Gemini API.
-
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini_API-8e75b2?style=flat-square&logo=google&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌌 [DebugAI](https://debug-ai-iota.vercel.app/)
-**The Neural Bug Deconstructor**
- 
-> AI-driven troubleshooting platform that transforms chaotic raw error logs into structured, actionable reproduction steps and fixes using the power of Google Gemini. 
-
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini_API-8e75b2?style=flat-square&logo=google&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🍱 [FoodShare](https://leftover-food-donation.vercel.app/)
-**Food Donation Platform**
-
-> Full-stack platform connecting food donors with people in need. Secure JWT auth and real-time coordination.
-
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 [BlogNest](https://blognest-app.vercel.app/)
-**Modern Blogging Platform**
-
-> Clean blogging platform with smooth UI, full authentication, rich text editing and CRUD operations.
-
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏅 Certificates & Achievements
-
-<div align="center">
-
-| 🎖️ | Achievement |
-|:---:|:---| 
-| 📜 | **Oracle Certified —**  OCI 2025 AI Foundations  (Aug 2025)|
-| 📜 | **Full Stack Development Certificate** — GeeksforGeeks |
-| 🥈 | **Semi-Finalist** — RIFT'26 Hackathon |
-| 🥉 | **Rank 3** — Winter of Code Social '25 |
-| 🎖️ | **15+ Hackathons** participated — including HackAura 2025 |
-| 👨‍🏫 | **Mentor** — Apertre 3.0 , SSoC'26 |
-
-
-</div>
-
----
-
-## 🌸 Philosophy
-
-<div align="center">
-
-> ### *"Coffee ☕ + Ctrl + Z = Peace of Mind"*
-> **— Rishima's Law 🌙💻**
+<sub>⚙️ Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — set it up in your repo to activate this section.</sub>
 
 </div>
 
