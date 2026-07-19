@@ -51,7 +51,7 @@ const rishima = {
 </td>
 <td width="50%" valign="top">
 
-- 🏆 Participated in **10+ hackathons** and counting
+- 🏆 Participated in **5+ hackathons** and counting
 - 👨‍🏫 Mentored **200+ developers** across Apertre 3.0 & SSoC'26
 - 📜 Oracle Certified — **AI Foundations** & **Agentic AI Foundations**
 - 🥉 Rank 3 at **Winter of Code Social '25**
