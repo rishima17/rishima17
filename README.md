@@ -122,8 +122,8 @@ const rishima = {
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
+ 
+ <!-- ## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -131,7 +131,7 @@ const rishima = {
 
 </div>
 
----
+--- -->
 
 ## 📈 Activity Graph
 
