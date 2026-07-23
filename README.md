@@ -14,7 +14,7 @@
 const rishima = {
   name:     "Rishima",
   role:     "Full-Stack Developer",
-  exploring: ["Gen AI", "Agentic AI", "LangChain", "RAG", "MERN Stack"],
+  exploring: ["Gen AI", "Agentic AI", "RAG", "Langchain"],
   status:   "🟢 Open to opportunities",
   passion:  "Building things that matter",
   law:      "Coffee ☕ + Ctrl+Z = Peace 🌙"
@@ -163,16 +163,6 @@ const rishima = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
-## ✨ Featured Projects
-
-🚀 **Automator.UI**
-AI-powered website builder using modern LLM workflows.
-
-📚 **LecturePulse**
-AI-powered lecture notes and attendance management platform.
-
-🏡 **TripNest**
-Full-stack travel booking platform built with the MERN stack.
 
 ## ✍️ Random Dev Quote
 
